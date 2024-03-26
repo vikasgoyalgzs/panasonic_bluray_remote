@@ -10,6 +10,6 @@
   "version": "1.0.0",
   "requirements": ["panacotta==0.2"],
   "ssdp": [],
-  "zeroconf": []
+  "zeroconf": [],
   "loggers": ["custom_components.panasonic_bluray"]
 }
